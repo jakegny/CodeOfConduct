@@ -34,6 +34,17 @@ If you can't say something nice (or constructive), don't say anything at all.
 ![gif of thumper](thumpers_rule.gif)
 
 
+### Examples of Unacceptable Behavior
+
+* Violent threats or violent language directed against another person
+* Discriminatory jokes and language
+* Posting sexually explicit or violent material
+* Posting (or threatening to post) other people’s personally identifying information (“doxing”)
+* Personal insults, especially those using racist or sexist terms
+* Unwelcome sexual attention
+* Advocating for, or encouraging, any of the above behavior
+* Repeated harassment of others. In general, if someone asks you to stop, then stop
+
 
 ## DIVERSITY STATEMENT
 
